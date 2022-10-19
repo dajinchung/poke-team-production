@@ -22,7 +22,7 @@ PokéTeam is a web application designed to visually aid individuals create a Pok
 <br></br>
 
 ## How to run the application
-Open your terminal window (ctrl + ` ) and follow along the list!
+Open your terminal window and follow along the list!
 
 1. `cd backend` (this will change the directory to the backend folder)
 2. `python -m venv myenv` (this will create your virtual environment)
