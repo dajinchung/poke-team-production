@@ -1,0 +1,23 @@
+.signupbody{
+  text-align: center;
+}
+
+.signupbutton{
+  cursor: pointer;
+  background-color: rgb(235, 231, 190);
+  border: 1px solid black;
+  border-radius: 4px;
+  padding: 0.5rem 1.5rem;
+  margin-top: 15px;
+
+}
+
+.signupbutton:hover,
+.signupbutton:active {
+  background-color: khaki;
+}
+
+.signuplabel{
+  font-family: Impact, fantasy;
+  padding: 0.2rem;
+}

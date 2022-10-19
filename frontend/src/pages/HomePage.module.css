@@ -1,0 +1,29 @@
+.home{
+  text-align: center;
+}
+
+.homeimg {
+  background: whitesmoke;
+  border-radius: 50%;
+  width: 550px;
+  height: 550px;
+  box-shadow: 10px 5px 5px lightskyblue;
+  padding: 18px;
+  margin: 10px;
+}
+
+.homebuttons{
+  cursor: pointer;
+  background-color: rgb(235, 231, 190);
+  border: 1px solid black;
+  border-radius: 4px;
+  padding: 0.5rem 1.5rem;
+  margin-top: 5px;
+  margin-right: 5px;
+}
+
+.homebuttons:hover,
+.homebuttons:active {
+  background-color: khaki;
+  color: white;
+}

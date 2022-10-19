@@ -1,0 +1,38 @@
+.list{
+  display: grid;
+  flex-wrap: wrap;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  column-gap: 20px;
+  row-gap: 20px;
+}
+
+.card{
+  text-align: center;
+  background-color: rgb(238, 243, 201);
+  border-radius: 10px;
+  margin-top: 10px;
+  height: 100%;
+  padding: 7px;
+  border-width: 2px;
+  border-color: black;
+  
+}
+
+.card:hover {
+  background-color: rgb(232, 240, 205);
+  -webkit-box-shadow: 5px 5px 24px 5px rgba(0,0,0,0.47); 
+  box-shadow: 5px 5px 24px 5px rgba(0,0,0,0.47);
+  transition-property: background-color;
+  transition-property: box-shadow;
+  transition-duration: .3s;
+}
+
+.flavortext{
+  padding: 10px;
+  background-color: whitesmoke;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  font-family: 'Josefin Sans', sans-serif;
+  margin-left: 30px;
+  margin-right: 30px;
+}

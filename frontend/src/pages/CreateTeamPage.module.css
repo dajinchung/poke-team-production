@@ -1,0 +1,43 @@
+
+.team{
+  display: flex;
+  justify-content: center;
+  column-gap: 20px;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+}
+
+.sprite{
+  display: flex;
+  justify-content: center;
+}
+
+.pokename{
+  text-align: center;
+}
+
+.teamcard{
+  padding: 10px;
+  background-color: rgb(233, 243, 201);
+  border-radius: 10px;
+  height: 100%;
+}
+
+.teamcard:hover {
+  background-color: rgb(215, 224, 186);
+  -webkit-box-shadow: 5px 5px 24px 5px rgba(0,0,0,0.47); 
+  box-shadow: 5px 5px 24px 5px rgba(0,0,0,0.47);
+  transition-property: background-color;
+  transition-property: box-shadow;
+  transition-duration: .3s;
+}
+.teamheader{
+  padding-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.choosepoketitle{
+  text-align: center;
+}
