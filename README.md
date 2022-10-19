@@ -13,7 +13,7 @@ PokéTeam is a web application designed to visually aid individuals create a Pok
 <br></br>
 
 # Technologies used
-- Djnago REST framework
+- Django REST framework
 - ReactJS
 - HTML/CSS
 - Axios
@@ -24,13 +24,13 @@ PokéTeam is a web application designed to visually aid individuals create a Pok
 ## How to run the application
 Open your terminal window (ctrl + ` ) and follow along the list!
 
-1. type `cd backend` (this will change the directory to the backend folder)
-2. type `python -m venv myenv` (this will create your virtual environment)
-3. type `source ./myenv/bin/activate` (this will activate your virtual environment)
-4. type `pip install -r requirements.txt` (this will install the required python packages to run the application)
-5. type `createdb poke_db` (this will create the database)
-6. type `python manage.py runserver` (this will start up a development server for this project)
-7. type `cd ..` (this will return to the root project directory) 
-8. type `cd frontend` (this will change the diretory to the frontend folder)
-9. type `npm install axios` (this will install axios promise based HTTP client)
-10. type `npm start` (this will start up a local browser to view the project)
+1. `cd backend` (this will change the directory to the backend folder)
+2. `python -m venv myenv` (this will create your virtual environment)
+3. `source ./myenv/bin/activate` (this will activate your virtual environment)
+4. `pip install -r requirements.txt` (this will install the required python packages to run the application)
+5. `createdb poke_db` (this will create the database)
+6. `python manage.py runserver` (this will start up a development server for this project)
+7. `cd ..` (this will return to the root project directory) 
+8. `cd frontend` (this will change the diretory to the frontend folder)
+9. `npm install axios` (this will install axios promise based HTTP client)
+10. `npm start` (this will start up a local browser to view the project)
