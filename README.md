@@ -1,6 +1,6 @@
 # PokéTeam Application
 
-PokéTeam is a web application designed to visually aid individuals create a Pokémon team without having to spend the resources & time in game. Instead, users can see what features each unique Pokémon has to offer, which include: descriptions, abilities, evolution, etc. Users can add Pokémon featuring over 100 unique Pokémon to their own team to help visualize the synergy between each Pokémon in their team.
+PokéTeam is a web application designed to visually aid individuals by creating a Pokémon team without having to spend the resources & time in-game. Instead, users can see what features each unique Pokémon has to offer, which include: descriptions, abilities, evolution, etc. Featuring over 100 unique Pokémon, users can add them to their own team to help visualize the synergy between each Pokémon.
 
 <br></br>
 ![Image1](https://i.postimg.cc/288GYz45/Poke-Team-Home.png)
